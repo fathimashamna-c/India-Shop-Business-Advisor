@@ -134,13 +134,7 @@ The application will open in your browser.
 - Project datasets used for training and analysis.
 - Location-related information and assumptions used in the application.
 
-## ⚠️ Limitations
 
-- OpenStreetMap business data may be incomplete or unavailable for certain locations.
-- Predicted demand is an estimate and does not represent guaranteed actual sales.
-- Financial calculations depend on assumptions and user-provided inputs.
-- Model performance depends on the quality, size, and representativeness of training data.
-- The application is intended for planning and decision-support purposes, not as a guarantee of business success.
 
 ## 🚀 Deployment
 
@@ -148,15 +142,7 @@ The application is deployed using **Streamlit Community Cloud**.
 
 Users can access the interactive application through the deployed web link without installing Python locally.
 
-## 🔮 Future Improvements
 
-- Integration with more real-world business datasets.
-- Improved demand prediction using larger and more representative datasets.
-- Better competitor and nearby facility analysis.
-- More accurate rental and expense estimation.
-- Enhanced location-based visualizations.
-- Additional Machine Learning models and model comparison.
-- Integration of more reliable market and demographic information.
 
 
 
