@@ -128,12 +128,6 @@ The application will open in your browser.
 6. Financial estimates are calculated.
 7. Business opportunities are compared and presented through the interactive dashboard.
 
-## 🌍 Data Sources
-
-- Business and location information from OpenStreetMap (OSM), where available.
-- Project datasets used for training and analysis.
-- Location-related information and assumptions used in the application.
-
 
 
 ## 🚀 Deployment
